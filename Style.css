@@ -1,0 +1,137 @@
+/*Biography Section*/
+
+#home-page {
+	background-image: url(https://www.publicdomainpictures.net/pictures/190000/velka/black-background-1468370534d5s.jpg);
+	background-size: cover;
+}
+
+#introduction {
+	background-color: #b22222;
+	text-align: center;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+#banner {
+	clear: both;
+	overflow: auto;
+	background-image: url(https://i.ytimg.com/vi/eq7Adzo4QAE/maxresdefault.jpg);
+	background-size: cover;
+}
+
+
+#occupation, 
+#bachelors, 
+#masters, 
+#web-development, 
+#data-science, 
+#strengthfinders {
+	clear: both;
+	overflow: auto;
+	border-bottom: solid #dcdcdc;
+}
+
+.job, 
+.undergrad, 
+.grad, 
+.google, 
+.bertelsmann, 
+.book {
+	height: 200px;
+	width: 200px;
+	margin: 10px;
+}
+
+.job-description, 
+.undergrad-description, 
+.grad-description, 
+.google-description, 
+.bertelsmann-description, 
+.book-description {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	padding: 10px;
+	margin: 10px;
+	color: #ffffff;
+}
+
+/*Occupation Section*/
+
+#first-page {
+	background-image: url(Fotolia_84625850_XS.jpg);
+	background-position: center;
+}
+
+/*Bachelors Section*/
+
+.row {
+	margin: 10px;
+}
+
+/*Masters Section*/
+
+
+
+/*Web-Development Section*/
+
+
+
+/*Data-Science Section*/
+
+
+
+/*StrengthsFinder Section*/
+
+.results {
+	height: 50%;
+	width: 50%;
+}
+
+.themes {
+	margin: 10px;
+}
+
+/*Multiple or All Sections*/
+
+#second-page, 
+#third-page, 
+#fourth-page, 
+#fifth-page, 
+#sixth-page {
+	border: 25px solid #000000;
+}
+
+.btn-group {
+	float: left;
+}
+
+.btn-custom {
+	background-color: #dcdcdc;
+}
+
+.job-site {
+	height: 50px;
+	width: 50px;
+}
+
+#job-details, 
+#undergrad-details, 
+#grad-details, 
+#google-details, 
+#bertelsmann-details, 
+#book-details {
+	clear: both;
+	overflow: auto;
+	margin: 10px;
+	font-weight: bold;
+}
+
+.list-unstyled {
+	margin: 20px;
+}
+
+.mr-3 {
+	height: 100px;
+	width: 100px;
+}
